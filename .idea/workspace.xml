@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a7cb89c-e74d-4888-ab7b-f0e26915ce6a" name="Default Changelist" comment="Solving N-Queen problem using genetic algorithm by creating random population and random index to crossover and iterating the same process until the final solution.&#10;The improvement of the result is also visualized via plotting.">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Genetic_Algo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="f8dd7bc7-822e-418e-af49-9d0473327e9e" />
+  <component name="ProjectId" id="1gpNE3jrVvnQ222rQiQ5l4wHkwu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Genetic_Algorithm" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Schrodinger's Cat\PycharmProjects\Genetic_Algo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Genetic_Algo">
+    <configuration name="Genetic_Algo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Genetic_Algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Genetic_Algo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MidTerm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Genetic_Algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MidTerm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Genetic_Algo" />
+        <item itemvalue="Python.MidTerm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="" name="New changelist" comment="Solving N-Queen problem using genetic algorithm by creating random population and random index to crossover and iterating the same process until the final solution.&#10;The improvement of the result is also visualized via plotting." />
+      <created>1598807458952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598807458952</updated>
+      <workItem from="1598807480141" duration="11619000" />
+      <workItem from="1598884020125" duration="353000" />
+      <workItem from="1599072440624" duration="741000" />
+      <workItem from="1599244466583" duration="10108000" />
+      <workItem from="1599258431905" duration="2225000" />
+      <workItem from="1601065104802" duration="2912000" />
+      <workItem from="1603486228560" duration="674000" />
+      <workItem from="1603487487576" duration="201000" />
+      <workItem from="1603487713398" duration="35000" />
+      <workItem from="1603562022632" duration="628000" />
+      <workItem from="1603562663214" duration="2780000" />
+    </task>
+    <task id="LOCAL-00001" summary="Solving N-Queen problem using genetic algorithm by creating random population and random index to crossover and iterating the same process until the final solution.&#10;The improvement of the result is also visualized via plotting.">
+      <created>1603562287830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603562287830</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Solving N-Queen problem using genetic algorithm by creating random population and random index to crossover and iterating the same process until the final solution.&#10;The improvement of the result is also visualized via plotting.">
+      <created>1603562575503</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603562575503</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Solving N-Queen problem using genetic algorithm by creating random population and random index to crossover and iterating the same process until the final solution.&#10;The improvement of the result is also visualized via plotting." />
+    <option name="LAST_COMMIT_MESSAGE" value="Solving N-Queen problem using genetic algorithm by creating random population and random index to crossover and iterating the same process until the final solution.&#10;The improvement of the result is also visualized via plotting." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="344" key="#Notifications" timestamp="1603564852952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="344" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1603564852952" />
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603486256184">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603486256184" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1603565286175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603565286175" />
+    <state x="830" y="418" key="Github.ShareDialog" timestamp="1603562422603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="830" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603562422603" />
+    <state width="1877" height="316" key="GridCell.Tab.0.bottom" timestamp="1603487688662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603487688662" />
+    <state width="1877" height="316" key="GridCell.Tab.0.center" timestamp="1603487688662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="316" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603487688662" />
+    <state width="1877" height="316" key="GridCell.Tab.0.left" timestamp="1603487688661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="316" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603487688661" />
+    <state width="1877" height="316" key="GridCell.Tab.0.right" timestamp="1603487688662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="316" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603487688662" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1603562729226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603562729226" />
+    <state x="790" y="389" key="VCS.EditChangelistDialog" timestamp="1603562705065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="389" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603562705065" />
+    <state x="732" y="254" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1603562126869">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="732" y="254" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603562126869" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603562494358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603562494358" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Genetic_Algo$MidTerm.coverage" NAME="MidTerm Coverage Results" MODIFIED="1598884344394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Genetic_Algo$Genetic_Algo.coverage" NAME="Genetic_Algo Coverage Results" MODIFIED="1603487677182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
